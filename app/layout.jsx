@@ -2,7 +2,7 @@ import "@styles/globals.css";
 
 export const metadata = {
   title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  description: "Discover & Share AI Generated Prompts ",
 };
 
 const RootLayout = ({ children }) => {
